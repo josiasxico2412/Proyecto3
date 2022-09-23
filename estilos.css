@@ -1,0 +1,25 @@
+/*para el apartdo del contaimner
+parte desde un color especifico*/
+#container {
+    margin: auto;
+    height: 500px;
+    width: 500px;
+    margin-top: 50px;
+    background-color: blue;
+}
+
+
+/*para el boton que va cambiando contuniamente el color*/
+#button {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: 250px;
+    height: 50px;
+}
+
+span{
+    font-size: 10em;
+    justify-items: center;
+}
+
